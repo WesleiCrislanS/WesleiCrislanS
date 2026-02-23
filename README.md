@@ -1,6 +1,6 @@
 # Olá, eu sou o Weslei Crislan! 👋 🇧🇷
 
-### ✨ Criando bugs desde 2025
+### ✨ Codando desde 2025
 *Sim, alguns deles eu até conserto!* 🛠️
 
 ### 🛠️ Eu programo com / I code with:
